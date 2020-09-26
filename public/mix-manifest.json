@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/admin/js/admin.js": "/admin/js/admin.js",
+    "/admin/css/admin.css": "/admin/css/admin.css",
+    "/admin/js/adminlte.min.js.map": "/admin/js/adminlte.min.js.map",
+    "/admin/js/jquery.min.map": "/admin/js/jquery.min.map",
+    "/admin/css/adminlte.min.css.map": "/admin/css/adminlte.min.css.map",
+    "/admin/js/bootstrap.bundle.min.js.map": "/admin/js/bootstrap.bundle.min.js.map"
+}
